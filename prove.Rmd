@@ -2,9 +2,7 @@
 title: "Prove"
 author: "Cristian Tedesco"
 date: "`r Sys.Date()`"
-output: 
-  github_document: 
-     toc: true
+output: html_notebook
 ---
 
 ```{r setup, include=FALSE}
